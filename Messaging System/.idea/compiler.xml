@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-bootclasspath $USER_HOME$/Documents/leJOS_NXJ_0.9.1beta-3/lib/nxt/classes.jar" />
+  </component>
+</project>
